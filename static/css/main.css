@@ -29,3 +29,16 @@ input {
 table {
   margin-top: 50px;
 }
+
+.badge {
+  margin: 5px;
+  width: 100%;
+}
+
+.badge-in {
+  background-color: green;
+}
+
+.badge-out {
+  background-color: red;
+}

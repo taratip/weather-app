@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "Max",
+      "salary": 50000,
+      "title": "Designer",
+      "age": 26,
+      "attendance": false
+    },
+    {
+      "name": "John",
+      "salary": 85400,
+      "title": "Manager",
+      "age": 34,
+      "attendance": true
+    },
+    {
+      "name": "Evan",
+      "salary": 48000,
+      "title": "Cook",
+      "age": 56,
+      "attendance": true
+    },
+    {
+      "name": "Smith",
+      "salary": 64000,
+      "title": "Programmer",
+      "age": 13,
+      "attendance": false
+    },
+    {
+      "name": "Snow",
+      "salary": 118000,
+      "title": "Data Scientist",
+      "age": 32,
+      "attendance": true
+    }
+  ]
+}
